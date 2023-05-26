@@ -1,5 +1,9 @@
 # Banco GV
 
+# Requisitos
+
+* Docker
+
 ## Windows 
 .\bancogv.bat
 
