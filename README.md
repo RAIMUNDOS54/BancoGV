@@ -42,6 +42,7 @@ https://bancogv.azurewebsites.net/api/auth
 
 https://bancogv.azurewebsites.net/api/extrato/consolidado/titular/1/2023-04-01
 
-## Consultar coleção do PostMan disponível como referência para CRUD e outras operações:
+## Coleção PostMan
+#### Consultar para CRUD e outras operações
 
 https://forreste.postman.co/workspace/Team-Workspace~0acc090f-d078-430b-8ee6-1c02fe0fdc4d/collection/15045359-01695b7e-d6c8-4bee-958d-0c8abeafbcbd?action=share&creator=15045359
