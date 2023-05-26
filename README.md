@@ -1,4 +1,4 @@
-# MiniBanco
+# Banco GV
 
 ## Windows 
 .\bancogv.bat

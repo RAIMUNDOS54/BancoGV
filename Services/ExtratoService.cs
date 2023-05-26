@@ -1,5 +1,4 @@
 ﻿using BancoGV.Repositories;
-using System.Collections.Generic;
 
 namespace BancoGV.Services
 {
