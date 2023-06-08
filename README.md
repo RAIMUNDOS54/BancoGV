@@ -19,11 +19,11 @@
   "password": "user"
 }
  
-https://168.138.149.235:8086/api/auth
+http://168.138.149.235:8086/api/auth
 
 ### 2. Saldo Consolidado Diário
 
-https://168.138.149.235:8086/api/extrato/consolidado/titular/1/2023-04-01
+http://168.138.149.235:8086/api/extrato/consolidado/titular/1/2023-04-01
 
 ## URL para teste público em servidor on-premise na Oracle Cloud
 https://bancogv.azurewebsites.net/
